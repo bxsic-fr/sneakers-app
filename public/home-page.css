@@ -1,0 +1,77 @@
+.all {
+    background-image: url('https://i.pinimg.com/originals/1d/d2/0c/1dd20ca6ad5d8561efc032a13aed84d8.jpg');
+    background-size: 100%;
+    background-position-x: center;
+    height: 50%;
+    width: auto;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+.homee {
+    height: 100%!important;
+}
+
+.results {
+    background-color: black;
+    height: auto;
+    width: auto;
+    min-height: 50%;
+    background-size: 100%;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 15px;
+}
+
+.searchbox {
+    max-width: 100%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+.columns {
+    padding-top: 15px;
+}
+
+.choice {
+    width: 25%;
+    flex: auto;
+    margin-left: auto;
+    margin-right: auto;
+    transition: transform .2s;
+}
+
+.choice:hover {
+    transform: scale(1.05);
+}
+
+.desc-one {
+    font-size: 20px !important;
+}
+
+.title {
+    color: white !important;
+}
+
+.one-box {
+    color: white !important;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.contacts {
+    text-align: center;
+    vertical-align: auto;
+    font-family: 'Ubuntu', sans-serif;
+    height: auto;
+    width: 50%;
+    flex: auto;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 5%;
+}

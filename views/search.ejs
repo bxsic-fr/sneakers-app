@@ -1,0 +1,48 @@
+<html>
+
+<head>
+    <%- include('includes/header.ejs'); %>
+    <link href="/home-page.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="all">
+        <%- include('includes/banner.ejs'); %>
+        <div class="one-box">
+            <p class="title titre-one">Search - YourSneakers</p><br />
+            <p class="description desc-one">Search, Find, Buy.</p>
+        </div>
+        <div class="searchbox">
+            <form method="POST" action="/search">
+                <input class="input is-medium is-rounded" type="text" name="sneakname" placeholder="Yeezy Boost 700...">
+            </form>
+        </div>
+    </div>
+    <div class="results">
+        Results :
+            <% for (const element of shoeslist) { %>
+                <div class="box choice">
+                    <article class="media">
+                      <div class="media-left">
+                        <figure class="image is-128x128">
+                          <img src="<%= element.image %>" alt="Image">
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <div class="content">
+                          <p>
+                            <strong><%= element.name %></strong> <small>Retail : $<%= element.price %></small>
+                            <br/>
+                            Buy it : <br/>
+                            <% for(const linkz in element.links) { %>
+                            <a href="<%= element.links[linkz] %>" target="_blank"><%= linkz %></a><br/>
+                            <% } %>
+                          </p>
+                        </div>
+                      </div>
+                    </article>
+                  </div>
+                <% } %>
+</body>
+
+</html>

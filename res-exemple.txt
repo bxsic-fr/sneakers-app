@@ -1,0 +1,88 @@
+[
+  {
+    lowestResellPrice: { stockX: 400, flightClub: 340, goat: 425, stadiumGoods: 500 },
+    imageLinks: [],
+    _id: '60ba77ca82596f3c24941e8f',
+    shoeName: 'adidas Yeezy Boost 350 V2 Cinder',
+    brand: 'adidas',
+    silhoutte: 'adidas Yeezy Boost 350 V2',
+    styleID: 'FY2903',
+    make: 'adidas Yeezy Boost 350 V2',
+    colorway: 'Cinder/Cinder/Cinder',
+    retailPrice: 220,
+    thumbnail: 'https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Cinder-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1606320313',
+    releaseDate: '2020-03-21',
+    description: "The Yeezy Boost 350 V2 'Cinder' features a neutral look on its signature construction. Built with Primeknit, the Cinder upper includes a tonal monofilament stripe on the lateral side. 
+A heel pull-loop provides easy on and off, while a similar finish marks the cage around the Boost midsole. A gum rubber outsole provides traction.",
+    urlKey: 'adidas-yeezy-boost-350-v2-cinder',
+    resellLinks: {
+      stockX: 'https://stockx.com/adidas-yeezy-boost-350-v2-cinder',
+      flightClub: 'https://www.flightclub.com/yeezy-boost-350-v2-cinder-fy2903',
+      goat: 'http://www.goat.com/sneakers/yeezy-boost-350-v2-cinder-fy2903',
+      stadiumGoods: 'https://www.stadiumgoods.com/adidas-yeezy-boost-350-v2-cinder-fy2903'
+    }
+  },
+  {
+    lowestResellPrice: { stockX: 498, flightClub: 500, goat: 500, stadiumGoods: 580 },
+    imageLinks: [],
+    _id: '60ba77ca82596f3c24941e90',
+    shoeName: 'adidas Yeezy Boost 350 V2 Cinder Reflective',
+    brand: 'adidas',
+    silhoutte: 'adidas Yeezy Boost 350 V2',
+    styleID: 'FY4176',
+    make: 'adidas Yeezy Boost 350 V2',
+    colorway: 'Cinder/Cinder/Cinder',
+    retailPrice: 220,
+    thumbnail: 'https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Cinder-Reflective.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1607647335',        
+    releaseDate: '2020-04-04',
+    description: "The Yeezy Boost 350 V2 'Cinder Reflective' emerges with an almost-monochromatic look. Built with Primeknit, the shoe's Cinder upper is bolstered by a bootie-style collar and a heel pull-loop for easy on and off. The signature monofilament stripe sports reflective detailing, while underfoot, an encased Boost midsole gives way to a gum rubber outsole for traction.",
+    urlKey: 'adidas-yeezy-boost-350-v2-cinder-reflective',
+    resellLinks: {
+      stockX: 'https://stockx.com/adidas-yeezy-boost-350-v2-cinder-reflective',
+      flightClub: 'https://www.flightclub.com/yeezy-boost-350-v2-cinder-reflective-fy4176',
+      goat: 'http://www.goat.com/sneakers/yeezy-boost-350-v2-cinder-reflective-fy4176',
+      stadiumGoods: 'https://www.stadiumgoods.com/adidas-yeezy-boost-350-v2-reflective-cinder-fy4176'    }
+  },
+  {
+    lowestResellPrice: { stockX: 224, flightClub: 230, goat: 230 },
+    imageLinks: [],
+    _id: '60ba77ca82596f3c24941e91',
+    shoeName: 'Yeezy Desert Boot Season 7 Cinder',
+    brand: 'Yeezy',
+    silhoutte: 'Yeezy Desert Boot',
+    styleID: 'YZ7MF7003212',
+    make: 'Yeezy Desert Boot',
+    colorway: 'Cinder',
+    retailPrice: 280,
+    thumbnail: 'https://images.stockx.com/images/Yeezy-Desert-Boot-Season-7-Cinder-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1609447179',
+    releaseDate: '2019-02-12',
+    description: "The Yeezy Season 7 Desert Boot 'Cinder' brings a neutral look to its bulky construction. Combining a military aesthetic and outdoor-inspired details, the shoe's upper incorporates a mix of mesh, suede and nubuck, with rope laces supporting the fit. The tongue pull-loop includes 3M reflective detailing, while underfoot, a bold rubber sole unit anchors the build.",
+    urlKey: 'yeezy-desert-boot-season-7-cinder',
+    resellLinks: {
+      stockX: 'https://stockx.com/yeezy-desert-boot-season-7-cinder',
+      flightClub: 'https://www.flightclub.com/yeezy-season-7-desert-boot-cinder-149168',
+      goat: 'http://www.goat.com/sneakers/yeezy-season-7-desert-boot-cinder-yz7mf7003-212'
+    }
+  },
+  {
+    lowestResellPrice: { stockX: 172, flightClub: 150, goat: 150 },
+    imageLinks: [],
+    _id: '60ba77ca82596f3c24941e92',
+    shoeName: 'adidas Yeezy Desert Boot Cinder (W)',
+    brand: 'adidas',
+    silhoutte: 'adidas Yeezy Desert Boot',
+    styleID: 'YZ7WF7003-212',
+    make: 'adidas Yeezy Desert Boot',
+    colorway: 'Cinder/Cinder',
+    retailPrice: 295,
+    thumbnail: 'https://images.stockx.com/images/adidas-Yeezy-Desert-Boot-Cinder-W-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1615586194',
+    releaseDate: '',
+    description: '',
+    urlKey: 'adidas-yeezy-desert-boot-cinder-w',
+    resellLinks: {
+      stockX: 'https://stockx.com/adidas-yeezy-desert-boot-cinder-w',
+      flightClub: 'https://www.flightclub.com/yeezy-season-7-desert-boot-cinder-159115',
+      goat: 'http://www.goat.com/sneakers/yeezy-season-7-desert-boot-cinder-yz7wf7003-212'
+    }
+  }
+]
