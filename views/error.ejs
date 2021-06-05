@@ -1,0 +1,28 @@
+<html>
+
+<head>
+    <%- include('includes/header.ejs'); %>
+    <link href="/home-page.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="all homee">
+        <%- include('includes/banner.ejs'); %>
+        <div class="one-box">
+            <p class="title titre-one">Contact - YourSneakers</p><br />
+            <p class="description desc-one">Search, Find, Buy.</p>
+        </div>
+        <div class="searchbox">
+            <form method="POST" action="/search">
+                <input class="input is-medium is-rounded" type="text" name="sneakname" placeholder="Yeezy Boost 700...">
+            </form>
+        </div>
+        <div class="results">
+            <div class="box contacts">
+                PRODUCT NOT FOUND !
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
