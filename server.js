@@ -80,5 +80,5 @@ app.get('/contact', function (req, res) {
 })
 
 const listener = app.listen(process.env.PORT, () => {
-    console.log("Your sneakers are available at : http://localhost:" + listener.address().port);
+    console.log("Your sneakers are available at : http://localhost:" + listener.address().port + " | By Bxsic (github.com/bxsic-fr)");
 });
